@@ -1,0 +1,1 @@
+SPA-versiossa selain tekee vain yhden POST-pyynnön palvelimelle ja palvelin palauttaa datan JSON-sisältönä, jonka selain muotoilee HTML-muotoon.
