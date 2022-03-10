@@ -1,0 +1,1 @@
+Request ===>>> server ===>>> response.json ===>>> browser ===>>> render HTML from response.json
