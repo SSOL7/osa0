@@ -1,0 +1,8 @@
+selain => palvelin: http get https://studies.cs.helsinki.fi/exampleapp/data.json.
+palvelin => selain: html-syntaksi.
+selain => palvelin: https://studies.cs.helsinki.fi/exampleapp/main.css
+palvelin => selain: main.css.
+selain => palvelin: Request URL: https://studies.cs.helsinki.fi/exampleapp/main.js
+pavelin => selain: main.js.
+
+selain alkaa suorittaa main.js-fileen syntaksia joka koodataan sitten JSON-muotoiseksi ja renderöidään näytölle HTML-kielen avulla
